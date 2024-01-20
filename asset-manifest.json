@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/axioapiassignment/static/css/main.db7b5628.css",
+    "main.js": "/axioapiassignment/static/js/main.9c59ad25.js",
+    "static/media/pressure.png": "/axioapiassignment/static/media/pressure.11b0c25270b5bedd58e4.png",
+    "static/media/clouds.png": "/axioapiassignment/static/media/clouds.c82be700801797ee5b3f.png",
+    "static/media/humidity.png": "/axioapiassignment/static/media/humidity.89aa1fa6eeeac7cea996.png",
+    "static/media/maximum.png": "/axioapiassignment/static/media/maximum.16a49c72405eaa440270.png",
+    "static/media/wind.png": "/axioapiassignment/static/media/wind.b5bb7299b842c65b5130.png",
+    "static/media/minimum.png": "/axioapiassignment/static/media/minimum.d4f3bfe8421de32f0659.png",
+    "static/media/sunset.png": "/axioapiassignment/static/media/sunset.34769c64e9b302633f73.png",
+    "static/media/background.svg": "/axioapiassignment/static/media/background.d7afc00cdc62af8a4b48.svg",
+    "static/media/visibility.png": "/axioapiassignment/static/media/visibility.76c96f0f3a03ec34fda8.png",
+    "static/media/sunrise.png": "/axioapiassignment/static/media/sunrise.26c51761c369e549c5ec.png",
+    "index.html": "/axioapiassignment/index.html",
+    "main.db7b5628.css.map": "/axioapiassignment/static/css/main.db7b5628.css.map",
+    "main.9c59ad25.js.map": "/axioapiassignment/static/js/main.9c59ad25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db7b5628.css",
+    "static/js/main.9c59ad25.js"
+  ]
+}
